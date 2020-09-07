@@ -1,4 +1,5 @@
-# learnthebasicsoflangs
+# LearnTheBasicsOfLangs
+
 
 ## Project setup
 ```
